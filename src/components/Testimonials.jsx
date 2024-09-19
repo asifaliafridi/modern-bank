@@ -4,7 +4,7 @@ import FeedbackCard from './FeedbackCard';
 
 export const Tesiomonials = () =>(
   <section id="clients" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}>
-    <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]">
+    <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-2 relative z-[1]">
       <h1 className={styles.heading2}>
         What people are <br className="sm:block hidden"/> saying about us
       </h1>
